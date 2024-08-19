@@ -1,16 +1,24 @@
-# profile_ui
+# Profile UI in Flutter
 
-A new Flutter project.
+This project is a simple profile page UI built using Flutter. The UI is designed to resemble the image provided, with a user profile picture, name, location, follower stats, social media icons, and action buttons.
+
+## Features
+
+- **Profile Picture**: Circular avatar for the user profile picture.
+- **User Details**: Display the user's name and location.
+- **Stats**: Show the number of followers and following.
+- **Social Media Icons**: Icons for external links (e.g., website, Instagram, Facebook).
+- **Action Buttons**: Buttons for "Donate" and "Message".
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) should be installed on your machine.
+- An IDE such as [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/profile_ui.git
