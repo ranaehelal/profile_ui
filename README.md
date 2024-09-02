@@ -1,14 +1,18 @@
+
 # Profile UI in Flutter
 
-This project is a simple profile page UI built using Flutter. The UI is designed to resemble the image provided, with a user profile picture, name, location, follower stats, social media icons, and action buttons.
+This project is a dynamic profile page UI built using Flutter. It features a user profile section, notification page, and theme switching capabilities, offering a complete UI experience.
 
 ## Features
 
-- **Profile Picture**: Circular avatar for the user profile picture.
-- **User Details**: Display the user's name and location.
-- **Stats**: Show the number of followers and following.
+- **Profile Picture**: Circular avatar for the user's profile picture.
+- **User Details**: Displays the user's name and location.
+- **Stats**: Shows the number of followers and following.
 - **Social Media Icons**: Icons for external links (e.g., website, Instagram, Facebook).
-- **Action Buttons**: Buttons for "Donate" and "Message".
+- **Action Buttons**: Includes "Donate" and "Message" buttons.
+- **Notification Page**: A page that lists user notifications with a customized AppBar, including theme switching between light and dark modes.
+- **Bottom Navigation Bar**: Customizable navigation bar with icons, including a notification badge.
+- **Theme Switching**: Toggle between light and dark themes using a `ValueNotifier`.
 
 ## Getting Started
 
@@ -22,3 +26,30 @@ This project is a simple profile page UI built using Flutter. The UI is designed
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/profile_ui.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd profile_ui
+   ```
+3. Get the dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+### Running the App
+
+1. Connect your device or start an emulator.
+2. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Customization
+
+- **Themes**: Customize the light and dark themes in `light_theme.dart` and `dark_theme.dart`.
+- **Notification List**: Modify the content of the notifications in `notification_page.dart`.
+- **Profile Page**: Update user details and actions in `profile_page.dart`.
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests.
