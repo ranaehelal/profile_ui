@@ -46,7 +46,7 @@ This project is a dynamic profile page UI built using Flutter. It features a use
 ## Screenshots
 <img src="project_images/profile.png" alt="Profile Screen" width="250" height="450">
 
-<img src="project_images/notification" alt="Notification Screen" width="250" height="450">
+<img src="project_images/notification.png" alt="Notification Screen" width="250" height="450">
 
 
 
