@@ -43,6 +43,13 @@ This project is a dynamic profile page UI built using Flutter. It features a use
    ```bash
    flutter run
    ```
+## Screenshots
+<img src="project_images/profile.png" alt="Profile Screen" width="250" height="450">
+
+<img src="project_images/notification" alt="Notification Screen" width="250" height="450">
+
+
+
 
 ## Customization
 
@@ -50,6 +57,4 @@ This project is a dynamic profile page UI built using Flutter. It features a use
 - **Notification List**: Modify the content of the notifications in `notification_page.dart`.
 - **Profile Page**: Update user details and actions in `profile_page.dart`.
 
-## Contributing
 
-Feel free to fork the repository and submit pull requests.
