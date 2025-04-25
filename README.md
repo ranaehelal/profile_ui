@@ -25,7 +25,7 @@ This project is a dynamic profile page UI built using Flutter. It features a use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/profile_ui.git
+   git clone https://github.com/ranaehelal/profile_ui.git
    ```
 2. Navigate to the project directory:
    ```bash
